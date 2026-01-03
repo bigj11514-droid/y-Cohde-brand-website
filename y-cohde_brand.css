@@ -114,7 +114,7 @@ fieldset{
 @media  (orientation: portrait){
     .container{
     width: 100%;
-    height: 110vh;
+    height: 573px;
     background-image: url(background\ 3.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -171,7 +171,6 @@ fieldset{
 
     h1{
         font-size: 30px;
-        border: 1px solid red;
         padding: 10px;
         width: 100%;
         text-align: center;
