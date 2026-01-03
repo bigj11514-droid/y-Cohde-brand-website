@@ -153,10 +153,6 @@ fieldset{
         display: flex;
     }
 
-    li:hover{
-        border-radius: 10px;
-        background-color: rgb(223, 161, 223);
-    }
     a{
         list-style: none;
         font-weight: 300;
