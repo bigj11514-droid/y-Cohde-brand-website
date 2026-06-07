@@ -4,6 +4,8 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+
 @media screen and (orientation: landscape){
     /* styling the selectors/ Elements */
     .container{
@@ -14,7 +16,7 @@
         background-size: cover;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
-    
+
     header nav{
         width: 100%;
         height: auto;
